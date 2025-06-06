@@ -6,7 +6,7 @@
 
 ---
 
-![Coding Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
+![Coding Banner](https://media.licdn.com/dms/image/v2/D4E12AQF-SyAMySwJ8w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1712234826769?e=2147483647&v=beta&t=9ms7bTc1D1FkT2xmyvRDkadvw2Bk6cyjJcO8vOeG6lI)
 
 ---
 
